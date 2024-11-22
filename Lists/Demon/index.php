@@ -8,7 +8,7 @@ echo($style);
 
 // List
 
-$json = file_get_contents("./list.json");
+$json = file_get_contents("./demon.json");
 $list = json_decode($json, true);
 
 $index = 0;
