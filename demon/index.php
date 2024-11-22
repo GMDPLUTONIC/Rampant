@@ -4,7 +4,7 @@ $style = "";
 
 echo($style);
 
-$json = file_get_contents("./list.json");
+$json = file_get_contents("/lists/demon.json");
 $list = json_decode($json, true);
 
 $index = 0;
