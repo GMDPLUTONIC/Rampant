@@ -1,7 +1,7 @@
 <?php
 
 // Load the JSON file
-$json = file_get_contents("../lists/demon.json");
+$json = file_get_contents("../lists/possible.json");
 $list = json_decode($json, true);
 
 // Start output buffering for HTML
@@ -24,7 +24,7 @@ $list = json_decode($json, true);
 </head>
 <body>
     <div class="container">
-        <h1 align="center">Rampant Demon List</h1>
+        <h1 align="center">Rampant Impossible List</h1>
         
         <?php
         // Index for the list
@@ -40,7 +40,6 @@ $list = json_decode($json, true);
                     <h2> <?= htmlspecialchars($level['name']) ?></h2>
                     <p>ID: <?= htmlspecialchars($level['id']) ?></p>
                     <p>Creator: <?= htmlspecialchars($level['creator']) ?></p>
-                    <p>Verifier: <?= htmlspecialchars($level['verifier']) ?></p>
                 </div>
             </div>
             <?php
