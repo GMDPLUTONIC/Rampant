@@ -2,12 +2,12 @@
 
 Rampant is a site that has the most popular lists in GD <br> (Demon List, ILL, PPLL, Challange List & SLL).
 
-Here Is An Example JSON Code For A Level On The List
+Here Is A JSON Code Template For A Level On One Of The Lists
 ```
     "1": {
-        "name": "Tidal Wave",
-        "id": 86407629,
-        "creator": "OniLink",
-        "verifier": "zZoink"
+        "name": "Level Name",
+        "id": Level ID,
+        "creator": "Level Creator(s)",
+        "verifier": "Verifier (For PPLL just delete this part, for sll and ill, just change it to wr and for challange list and demon list, keep it the same)"
     }
 ```
