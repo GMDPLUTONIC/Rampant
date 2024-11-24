@@ -12,3 +12,14 @@ Here Is A JSON Code Template For A Level On One Of The Lists
     }
 ```
 <br>
+
+## Feel Free To Fork This Repo And Pull Request
+
+<br>
+
+## Credits
+- Aredl (Source For Demon List)
+- PPLL (Source For PPLL)
+- Challange List (Challange List)
+- SLL (SLL)
+- GD (IDs For Some Of The Levels)
