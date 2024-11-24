@@ -1,7 +1,7 @@
 <?php
 
 // Load the JSON file
-$json = file_get_contents("../lists/possible.json");
+$json = file_get_contents("../lists-json/possible.json");
 $list = json_decode($json, true);
 
 // Start output buffering for HTML

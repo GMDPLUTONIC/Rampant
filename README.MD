@@ -2,7 +2,7 @@
 
 Rampant is a site that has the most popular lists in GD <br> (Demon List, ILL, PPLL, Challange List & SLL).
 
-Here Is A JSON Code Template For A Level On One Of The Lists
+Here Is The JSON Code Format
 ```
     "1": {
         "name": "Level Name",
@@ -11,9 +11,7 @@ Here Is A JSON Code Template For A Level On One Of The Lists
         "verifier": "Verifier (For PPLL just delete this part, for sll and ill, just change it to wr and for challange list and demon list, keep it the same)"
     }
 ```
-<br>
 
-## Feel Free To Fork This Repo And Pull Request
 
 <br>
 
@@ -21,5 +19,10 @@ Here Is A JSON Code Template For A Level On One Of The Lists
 - Aredl (Source For Demon List)
 - PPLL (Source For PPLL)
 - Challange List (Challange List)
-- SLL (SLL)
+- SLL (Source For SLL)
 - GD (IDs For Some Of The Levels)
+<br>
+
+## Feel Free To Fork This Repo And Pull Request
+
+- If You Do, Make Sure You Follow The Format.

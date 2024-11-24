@@ -1,7 +1,7 @@
 <?php
 
 // Load the JSON file
-$json = file_get_contents("../lists-json/demon.json");
+$json = file_get_contents("../lists-json/challenge.json");
 $list = json_decode($json, true);
 
 // Start output buffering for HTML
@@ -12,7 +12,7 @@ $list = json_decode($json, true);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rampppant Demon List</title>
+    <title>Rampant Challenge List</title>
     <link rel="stylesheet" href="../assets/css/main.css">
     <link rel="icon" href="../assets/favicon/favicon.png">
     <style>
@@ -24,7 +24,7 @@ $list = json_decode($json, true);
 </head>
 <body>
     <div class="container">
-        <h1 align="center">Rampppant Demon List</h1>
+        <h1 align="center">Rampant Challenge List</h1>
         
         <?php
         // Index for the list
