@@ -26,6 +26,8 @@ $list = json_decode($json, true);
     <div class="container">
         <h1 align="center">Rampppant Impossible Levels List</h1>
         
+        <a href="../">Go Back?</a>
+
         <?php
         // Index for the list
         $index = 0;

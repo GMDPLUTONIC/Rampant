@@ -13,7 +13,7 @@
 <body>
 
     <h1 align="center">Rampppant</h1>
-    <p align="center">Rampppant is a site that has the most popular lists in GD <br> (Demon List, ILL, PPLL, Challange List & SLL).
+    <p align="center">Rampppant is a site that has the most popular lists in GD <br> (Demon List, ILL, PPLL & Challange List).
 
     <hr style="margin-top: 50px; margin-bottom: 50px;">
 

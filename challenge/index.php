@@ -25,6 +25,8 @@ $list = json_decode($json, true);
 <body>
     <div class="container">
         <h1 align="center">Rampant Challenge List</h1>
+
+        <a href="../">Go Back?</a>
         
         <?php
         // Index for the list

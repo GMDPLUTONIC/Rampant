@@ -8,7 +8,7 @@ Here Is The JSON Code Format
         "name": "Level Name",
         "id": Level ID,
         "creator": "Level Creator(s)",
-        "verifier": "Verifier (For PPLL just delete this part, for sll and ill, just change it to wr and for challange list and demon list, keep it the same)"
+        "verifier": "Verifier (For PPLL just delete this part, for ill, just change it to wr and for challange list and demon list, keep it the same)"
     }
 ```
 
@@ -19,7 +19,6 @@ Here Is The JSON Code Format
 - Aredl (Source For Demon List)
 - PPLL (Source For PPLL)
 - Challange List (Challange List)
-- SLL (Source For SLL)
 - GD (IDs For Some Of The Levels)
 <br>
 
