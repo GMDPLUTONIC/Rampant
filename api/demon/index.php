@@ -13,7 +13,7 @@ $list = json_decode($json, true);
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rampppant Demon List</title>
-    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="stylesheet" href="../assets/css/main.css">
     <link rel="icon" href="../assets/favicon/favicon.png">
     <style>
         .container { max-width: 600px; margin: 0 auto; }
