@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rampppant</title>
-    <link rel="stylesheet" href="https://rampant.vercel.app/assets/css/main.css">
-    <link rel="icon" href="assets/favicon/favicon.png">
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="icon" href="/assets/favicon/favicon.png">
     <meta property="description" content="All Of Your Favorite Lists In One Site">
     <meta property="og:site_name" content="Rampppant">
     <meta property="og:image" content="https://github.com/GMDPLUTONIC/Rampant/assets/images/favicon.png">
