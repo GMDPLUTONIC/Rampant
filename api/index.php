@@ -6,9 +6,9 @@
     <title>Rampppant</title>
     <link rel="stylesheet" href="assets/css/main.css">
     <link rel="icon" href="assets/favicon/favicon.png">
-    <meta property="description" content="All Of Your Favorite Lists">
+    <meta property="description" content="All Of Your Favorite Lists In One Site">
     <meta property="og:site_name" content="Rampppant">
-    <meta property="og:image" content="https://suffer.vercel.app/assets/images/favicon.png">
+    <meta property="og:image" content="https://github.com/GMDPLUTONIC/Rampant/assets/images/favicon.png">
 </head>
 <body>
 
